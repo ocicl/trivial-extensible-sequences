@@ -4,6 +4,6 @@ Portability library for the extensible sequences protocol
 
 |---------+------------------------------------------------------------------|
 | source  | git:https://github.com/Shinmera/trivial-extensible-sequences.git |
-| commit  | 42789fe                                                          |
+| commit  | ddb28a3                                                          |
 | systems | trivial-extensible-sequences                                     |
 |---------+------------------------------------------------------------------|
